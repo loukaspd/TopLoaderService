@@ -1,8 +1,8 @@
 {
   "name": "top-loader-service",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Youtube-like top loader. Javascript only",
-  "main": "TopLoaderService.js",
+  "main": "lib/TopLoaderService.js",
   "scripts": {
     "compile": "babel --presets es2015,stage-0 -d lib/ TopLoaderService.js",
     "prepublish": "npm run compile"
