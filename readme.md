@@ -2,6 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/top-loader-service.svg)](https://badge.fury.io/js/top-loader-service)
 
+![](demo/demo.gif)
+
 ## About
 Youtube-like top loader Javascript library
 
